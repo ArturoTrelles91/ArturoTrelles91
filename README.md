@@ -67,12 +67,25 @@ Junior backend engineer focused on building clean, testable **REST APIs** with *
 - **UNAM – Faculty of Sciences** — BSc in Physics (2016).
 
 ## 📜 Selected Certifications
-- Java & Spring Framework Specialization (Alura/ONE).  
-- IBM: Object Oriented Programming in Java • Spring Framework for Java Development • Java Programming.  
-- SQL: A Practical Introduction (Coursera).  
-- Google Cloud Fundamentals: Core Infrastructure (Coursera).  
-- Python for Data Science, AI & Development (Coursera).  
-- Modern JavaScript – Complete Full-Stack Web Development Bootcamp (Udemy).
+
+- **Java & Spring Framework Specialization – ONE (102h), Alura LATAM** — 
+  [View certificate](https://app.aluracursos.com/user/trelles91n-n/fullCertificate/96c90c0da72e1bab58eddac45a60e79e)
+- **SQL: A Practical Introduction – Coursera** — 
+  [Verify: 54HRY2NYJB5R](https://www.coursera.org/account/accomplishments/verify/54HRY2NYJB5R)
+- **IBM Java Developer – Coursera**
+  - [Object Oriented Programming in Java — ENUJ2SRIB6JI](https://www.coursera.org/account/accomplishments/verify/ENUJ2SRIB6JI)
+  - [Spring Framework for Java Development — 8BWMSKR6VHIL](https://www.coursera.org/account/accomplishments/verify/8BWMSKR6VHIL)
+  - [Java Programming (IBM) — ZU4RW5Y5ER6U](https://www.coursera.org/account/accomplishments/verify/ZU4RW5Y5ER6U)
+- **Modern JavaScript – The Complete Full-Stack Web Development Bootcamp (Udemy)** — 
+  [View certificate](https://www.udemy.com/certificate/UC-e92f6340-b1f7-4292-89de-cae3131209c4/)
+- **Python for Data Science, AI & Development – Coursera** — 
+  [Verify: GRIV13PVO2W3](https://www.coursera.org/account/accomplishments/verify/GRIV13PVO2W3)
+- **A Tour of Google Cloud Hands-on Labs – Coursera** — 
+  [Verify: MELLF0L0WE2I](https://www.coursera.org/account/accomplishments/verify/MELLF0L0WE2I)
+- **Google Cloud Fundamentals: Core Infrastructure – Coursera** — 
+  [Verify: U18942HZ5DQ2](https://www.coursera.org/account/accomplishments/verify/U18942HZ5DQ2)
+- **Cloud Native, Microservices, Containers, DevOps and Agile** —
+- [Verify: d232c5b8ae09296e9250b344dc4c74bc (https://coursera.org/share/d232c5b8ae09296e9250b344dc4c74bc)
 
 ## 📫 Contact
 - 📧 Email: **trelles91n.n@gmail.com**  
