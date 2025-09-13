@@ -1,4 +1,4 @@
-<!-- Optional banner (recommended size: 1584×396) -->
+<!-- Optional banner (recommended size: 1024×396) -->
 <p align="center">
   <img src="assets/banner.png" alt="José Arturo Trelles — Backend / Full-Stack Developer">
 </p>
