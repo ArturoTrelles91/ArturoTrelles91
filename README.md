@@ -35,18 +35,17 @@ Junior backend engineer focused on building clean, testable **REST APIs** with *
 <img src="https://img.shields.io/badge/H2%20Database-5A45FF?style=for-the-badge" />
 
 ### Frontend
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
 
 ### Testing & Docs
 <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mockito-20232A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white&style=for-the-badge" />
 
 ### DevOps & Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
@@ -65,7 +64,7 @@ Junior backend engineer focused on building clean, testable **REST APIs** with *
 </div>
 
 <!-- Optional illustration on the right -->
-<img align="right" src="assets/coder.png" width="260" alt="Coding illustration">
+<img align="right" src="assets/coder.webp" width="260" alt="Coding illustration">
 
 ## 📦 Projects
 - **EcommerceH2** — Spring Boot + H2 e-commerce backend (CRUD for products, categories, orders). Includes documented endpoints and Postman/Insomnia tests.  
