@@ -1,6 +1,6 @@
 <!-- Optional banner (recommended size: 1584×396) -->
 <p align="center">
-  <img src="assets/banner.png" alt="José Arturo Trelles — Backend / Full-Stack Developer width="500"">
+  <img src="assets/banner.png" alt="José Arturo Trelles — Backend / Full-Stack Developer" width="500">
 </p>
 
 <h1 align="center">👋 Hey there! I'm José Arturo Trelles</h1>
