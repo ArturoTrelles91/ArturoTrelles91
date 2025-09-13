@@ -85,7 +85,7 @@ Junior backend engineer focused on building clean, testable **REST APIs** with *
 - **Google Cloud Fundamentals: Core Infrastructure – Coursera** — 
   [Verify: U18942HZ5DQ2](https://www.coursera.org/account/accomplishments/verify/U18942HZ5DQ2)
 - **Cloud Native, Microservices, Containers, DevOps and Agile** —
-- [Verify: d232c5b8ae09296e9250b344dc4c74bc (https://coursera.org/share/d232c5b8ae09296e9250b344dc4c74bc)
+  [Verify: d232c5b8ae09296e9250b344dc4c74bc](https://coursera.org/share/d232c5b8ae09296e9250b344dc4c74bc)
 
 ## 📫 Contact
 - 📧 Email: **trelles91n.n@gmail.com**  
