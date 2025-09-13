@@ -17,26 +17,52 @@
 ## 🚀 Summary
 Junior backend engineer focused on building clean, testable **REST APIs** with **Java 17 + Spring Boot**, secured with **Spring Security/JWT**, and backed by **PostgreSQL/MySQL/H2** via **Spring Data JPA**. Comfortable with **JUnit/Mockito**, basic CI/CD on GitHub, and frontend fundamentals (**HTML/CSS/JS**, **React/Angular**). I also bring a background in **data analysis & machine learning** (EDA, feature engineering, clustering/classical ML) and care about performance fundamentals (multithreading basics, pipeline optimization).
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/REST%20APIs-111111?logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/H2%20Database-5A45FF">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white">
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-111111?logo=openapiinitiative&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
+
+### Data & Persistence
+<img src="https://img.shields.io/badge/JPA%2FHibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/H2%20Database-5A45FF?style=for-the-badge" />
+
+### Frontend
+<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111&style=for-the-badge" />
+
+### Testing & Docs
+<img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mockito-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white&style=for-the-badge" />
+
+### DevOps & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111&style=for-the-badge" />
+
+### Currently Learning
+<img src="https://img.shields.io/badge/Microservices-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20(GCP%2FAWS)-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+
+</div>
 
 <!-- Optional illustration on the right -->
 <img align="right" src="assets/coder.png" width="260" alt="Coding illustration">
