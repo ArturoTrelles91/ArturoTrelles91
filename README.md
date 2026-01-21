@@ -93,6 +93,8 @@ Junior backend engineer focused on building clean, testable **REST APIs** with *
 
 ## 📜 Selected Certifications
 
+- **Python for Data Science, AI & Development – Coursera** — 
+  [Verify: GRIV13PVO2W3](https://www.coursera.org/account/accomplishments/verify/GRIV13PVO2W3)
 - **Java & Spring Framework Specialization – ONE (102h), Alura LATAM** — 
   [View certificate](https://app.aluracursos.com/user/trelles91n-n/fullCertificate/96c90c0da72e1bab58eddac45a60e79e)
 - **SQL: A Practical Introduction – Coursera** — 
@@ -103,8 +105,6 @@ Junior backend engineer focused on building clean, testable **REST APIs** with *
   - [Java Programming (IBM) — ZU4RW5Y5ER6U](https://www.coursera.org/account/accomplishments/verify/ZU4RW5Y5ER6U)
 - **Modern JavaScript – The Complete Full-Stack Web Development Bootcamp (Udemy)** — 
   [View certificate](https://www.udemy.com/certificate/UC-e92f6340-b1f7-4292-89de-cae3131209c4/)
-- **Python for Data Science, AI & Development – Coursera** — 
-  [Verify: GRIV13PVO2W3](https://www.coursera.org/account/accomplishments/verify/GRIV13PVO2W3)
 - **A Tour of Google Cloud Hands-on Labs – Coursera** — 
   [Verify: MELLF0L0WE2I](https://www.coursera.org/account/accomplishments/verify/MELLF0L0WE2I)
 - **Google Cloud Fundamentals: Core Infrastructure – Coursera** — 
