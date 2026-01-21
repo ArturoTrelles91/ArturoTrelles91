@@ -59,6 +59,11 @@ APIs, and production-adjacent environments.
   ensemble analysis, and visualization.  
   Repo: https://github.com/ArturoTrelles91/EDA_multiple_satellites
 
+
+-  **Machine Learning Regression on Galaxy Data**  
+  Regression modeling (ANN, Random Forest) with exploratory data analysis and model comparison.
+  Repo: https://github.com/ArturoTrelles91/Predictive-ANN-and-RF-on-Real-Data
+
 - **DBSCAN & Clustering Experiments**  
   Density-based clustering applied to synthetic and real datasets,
   with visualization and parameter sensitivity analysis.  
