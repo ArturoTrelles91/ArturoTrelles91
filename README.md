@@ -44,35 +44,28 @@ data-driven problem solving.
 </div>
 
 
-## 📊 Data Analysis Projects
-
-- **Satellite Data Analysis (Computational EDA)**  
-  Exploratory data analysis of complex multivariate time-series data.
-  Focus on data cleaning, aggregation, derived metrics, variability,
-  ensemble analysis, and visualization.  
-  Repo: https://github.com/ArturoTrelles91/EDA_multiple_satellites
-
-
--  **Machine Learning Regression on Galaxy Data**  
-  Regression modeling (ANN, Random Forest) with exploratory data analysis and model comparison.
-  Repo: https://github.com/ArturoTrelles91/Predictive-ANN-and-RF-on-Real-Data
-
-- **DBSCAN & Clustering Experiments**  
-  Density-based clustering applied to synthetic and real datasets,
-  with visualization and parameter sensitivity analysis.  
-  Repo: https://github.com/ArturoTrelles91/DBSCAN_Mocks
-
-  - **Machine Learning Projects (Templates & Experiments)**  
-  Collection of notebooks covering regression, classification,
-  clustering, dimensionality reduction, and model selection.  
-  Repo: https://github.com/ArturoTrelles91/Machine-Learning-Projects
-
 
 ## 🧩 Software Engineering Projects (Complementary)
 
-- EcommerceH2 — Spring Boot + H2  
-- Quiz Forum API — Spring Boot + JWT  
-- LiterAlura — Data ingestion + persistence (API → DB)
+### 🛒 EcommerceH2  
+Spring Boot REST API with CRUD operations for products, categories, and orders.  
+Tech: Java, Spring Boot, H2, REST  
+Repo: ...
+
+### 📊 Machine Learning Regression on Galaxy Data  
+Regression modeling (ANN, Random Forest) with EDA and model comparison.  
+Tech: Python, pandas, scikit-learn  
+Repo: ...
+
+### 🔐 Quiz Forum API  
+JWT authentication, role-based authorization and quiz workflows.  
+Tech: Spring Boot, Security, REST  
+
+
+### 📈 DBSCAN & Clustering Experiments  
+Density-based clustering with visualization and parameter analysis.  
+Tech: Python, NumPy, scikit-learn  
+
 
 ## 🎓 Education
 
