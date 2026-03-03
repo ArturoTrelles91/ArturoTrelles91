@@ -1,25 +1,22 @@
 <h1 align="center">👋 Hi, I'm José Arturo Trelles</h1>
 <p align="center">
-  <b>Data Analyst / Data Scientist (Jr)</b> — Python, EDA, Data Visualization, SQL  
+  <b>Software Engineer — Data · Backend · APIs</b>  
   <br/>
-  <i>Strong backend & engineering background</i>
+  <i>Python · JavaScript · REST · SQL · ML Background</i>
 </p>
 
 ## 🚀 Summary
 
-Junior **Data Analyst** with strong experience in **exploratory data analysis (EDA)**,
-**data visualization**, and **statistical analysis** using **Python (pandas, NumPy,
-Matplotlib, Seaborn)** and **SQL**.
+Software Engineer with experience building data-driven applications and REST APIs 
+using JavaScript, Python, and Java (Spring Boot).
 
-I have worked with **complex, high-variability datasets**, including multivariate
-time series, ensemble analysis, derived metrics, and uncertainty quantification.
-My background includes scientific data pipelines, feature engineering, clustering
-(K-Means, DBSCAN), and classical ML.
+I have worked on exploratory data analysis (EDA), visualization, and machine 
+learning workflows, as well as backend services and API integration. My background 
+in scientific computing allows me to approach technical problems with strong 
+analytical rigor.
 
-Additionally, I bring a solid **software engineering foundation** (Java, Spring Boot,
-REST APIs, databases), which allows me to work comfortably with data pipelines,
-APIs, and production-adjacent environments.
-
+I am particularly interested in roles that combine software development and 
+data-driven problem solving.
 
 ## 🛠️ Tech Stack
 
