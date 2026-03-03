@@ -44,23 +44,19 @@ data-driven problem solving.
 </div>
 
 
-
 ## 🧩 Software Engineering Projects (Complementary)
 
 ### 🛒 EcommerceH2  
 Spring Boot REST API with CRUD operations for products, categories, and orders.  
 Tech: Java, Spring Boot, H2, REST  
-Repo: ...
 
 ### 📊 Machine Learning Regression on Galaxy Data  
 Regression modeling (ANN, Random Forest) with EDA and model comparison.  
 Tech: Python, pandas, scikit-learn  
-Repo: ...
 
 ### 🔐 Quiz Forum API  
 JWT authentication, role-based authorization and quiz workflows.  
 Tech: Spring Boot, Security, REST  
-
 
 ### 📈 DBSCAN & Clustering Experiments  
 Density-based clustering with visualization and parameter analysis.  
