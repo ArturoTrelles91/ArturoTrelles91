@@ -22,28 +22,24 @@ data-driven problem solving.
 
 <div align="center">
 
-### Data Analysis & Visualization
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white&style=for-the-badge" />
-
-### Databases & SQL
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-
-### Machine Learning (Classical)
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/K--Means-111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DBSCAN-111?style=for-the-badge" />
-
-### Software Engineering (Background)
+### Software Development & APIs
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/REST%20APIs-111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=for-the-badge" />
+
+### Databases
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+
+### Data & Analytics
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
 
 </div>
 
