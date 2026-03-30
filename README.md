@@ -1,75 +1,73 @@
 <h1 align="center">👋 Hi, I'm José Arturo Trelles</h1>
 <p align="center">
-  <b>Software Engineer — Data · Backend · APIs</b>  
+  <b>Business Analyst / Data Analyst — Data · Analytics · Insights</b>  
   <br/>
-  <i>Python · JavaScript · REST · SQL · ML Background</i>
+  <i>Python · SQL · Power BI · Excel</i>
 </p>
 
 ## 🚀 Summary
 
-Software Engineer with experience building data-driven applications and REST APIs 
-using JavaScript, Python, and Java (Spring Boot).
+Data Analyst with a strong background in scientific computing and quantitative analysis.  
+Experienced in transforming complex datasets into actionable insights through data exploration, visualization, and statistical analysis.
 
-I have worked on exploratory data analysis (EDA), visualization, and machine 
-learning workflows, as well as backend services and API integration. My background 
-in scientific computing allows me to approach technical problems with strong 
-analytical rigor.
+Skilled in Python, SQL, Excel, and Power BI to support data-driven decision-making, including customer behavior analysis, performance metrics, and trend identification.
 
-I am particularly interested in roles that combine software development and 
-data-driven problem solving.
+I am particularly interested in roles that combine data analysis and business impact.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### Software Development & APIs
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20APIs-111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=for-the-badge" />
-
-### Databases
-<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
 
 ### Data & Analytics
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />
+
+### Databases
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+
+### Software Engineering (Complementary)
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-181717?logo=git&logoColor=white&style=for-the-badge" />
 
 </div>
 
+## 📊 Data & Analytics Projects
+
+### 📈 Job Skills Demand Analysis (Ongoing)  
+Analysis of job market data to identify skill demand trends and extract insights from text data.  
+Tech: Python, NLP, Data Analysis  
+
+### 💳 ChurnInsight  
+Customer churn analysis and segmentation with business-oriented metrics and data visualization.  
+Tech: Python, SQL, Power BI  
+
+### 🛰️ Satellite Data Pattern Analysis  
+Pattern detection in complex datasets using unsupervised learning and EDA.  
+Tech: Python, scikit-learn  
 
 ## 🧩 Software Engineering Projects (Complementary)
 
-### 🛒 EcommerceH2  
-Spring Boot REST API with CRUD operations for products, categories, and orders.  
-Tech: Java, Spring Boot, H2, REST  
+### 🛒 Ecommerce API  
+REST API with CRUD operations for products and orders.  
+Tech: Java, Spring Boot  
 
-### 📊 Machine Learning Regression on Galaxy Data  
-Regression modeling (ANN, Random Forest) with EDA and model comparison.  
-Tech: Python, pandas, scikit-learn  
-
-### 🔐 Quiz Forum API  
-JWT authentication, role-based authorization and quiz workflows.  
-Tech: Spring Boot, Security, REST  
-
-### 📈 DBSCAN & Clustering Experiments  
-Density-based clustering with visualization and parameter analysis.  
-Tech: Python, NumPy, scikit-learn  
-
+### 🔐 Quiz API  
+JWT authentication and role-based access.  
+Tech: Spring Boot  
 
 ## 🎓 Education
 
 - **UNAM – Institute of Astronomy**  
-  PhD in Computational Astrophysics  
-  Focus: data pipelines, scientific data analysis, simulation data,
-  feature engineering, and machine learning (2024)
+  PhD in Computational Astrophysics (2024)  
+  Focus: data analysis, pipelines, simulation data, machine learning  
 
 - **UNAM – Faculty of Sciences**  
   BSc in Physics (2016)
-
